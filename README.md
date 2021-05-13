@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anton-marais
 - 👀 I’m interested in art, science and design
-- 🌱 I’m currently learning Azure Bi and all things spatial science
+- 🌱 I’m currently learning Azure BI and all things spatial science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me anton.marais@waidc.govt.nz
 
